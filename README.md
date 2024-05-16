@@ -5,8 +5,8 @@ This project was conducted as part of the ECE 563 course, focusing on the predic
 # Data Preprocessing
 The data preprocessing phase involved the following steps:
 
-Loading and Cleaning Data: The load and temperature data were loaded into Pandas DataFrames. Datetime columns were created for uniformity and ease of manipulation.
-Excluding Data from June 2008: Data from June 2008 was excluded to prevent leakage during the modeling process.
+<br />Loading and Cleaning Data: The load and temperature data were loaded into Pandas DataFrames. Datetime columns were created for uniformity and ease of manipulation.
+<br />Excluding Data from June 2008: Data from June 2008 was excluded to prevent leakage during the modeling process.
 Melting Data: The hourly data columns were converted into rows for easier analysis.
 Merging Datasets: The melted load and temperature data were merged to create a combined dataset.
 
