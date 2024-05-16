@@ -1,5 +1,5 @@
 # Load_forecasting
-#Overview
+# Overview
 This project was conducted as part of the ECE 563 course, focusing on the predictive analysis of electricity load values based on temperature data. The study aimed to explore and model the relationships between hourly load values in 20 different zones and temperature data from 11 stations. Two machine learning algorithms, RandomForestRegressor and GradientBoostingRegressor, were employed to predict the load values for the first week of June 2008.
 
 # Data Preprocessing
